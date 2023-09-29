@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Sue+Ellen+Francisco&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Sue+Ellen+Francisco&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&family=Exo:wght@100&family=Geo&family=Kodchasan:wght@300&family=Sue+Ellen+Francisco&display=swap');
+
+body {
+  background-color: #1d1d1d;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+}
+
+a:link {
+	color: white;
+	text-decoration: none;
+}
+
+a:visited {
+
+}
+
+a:hover {
+
+}
+
+a:active {
+
+}
+
+h1 {
+	font-family: 'Sue Ellen Francisco', cursive;
+	color: #ffffff;
+	text-align: center;
+	font-size: 40px;
+	margin-bottom: 0px;
+}
+
+.nav {
+	color: white;
+	font-family: 'Amatic SC', cursive;
+	font-family: 'Exo', sans-serif;
+	font-family: 'Geo', sans-serif;
+	font-family: 'Kodchasan', sans-serif;
+	font-family: 'Sue Ellen Francisco', cursive;
+	font-size: 32px;
+
+}
+
+.intro {
+    background: #535353;
+    font-family: 'Amatic SC', cursive;
+	font-family: 'Sue Ellen Francisco', cursive;
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+    font-size: 24px;
+}
+
